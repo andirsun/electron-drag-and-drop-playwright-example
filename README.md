@@ -1,10 +1,10 @@
-# electron-playwright-example
+# electron-drag-and-drop-playwright-example
 
-Example of multi-window [Playwright](https://playwright.dev) testing with [Electron](https://www.electronjs.org)
+Example of Drag and Drop [Playwright](https://playwright.dev) testing with [Electron](https://www.electronjs.org)
 
 ```shell
-git clone https://github.com/spaceagetv/electron-playwright-example.git
-cd electron-playwright-example
+git clone <URL>
+cd electron-drag-and-drop-playwright-example
 npm install
 npm run e2e
 ```
@@ -34,4 +34,3 @@ Find the tests in the `e2e-tests` directory.
 7. Receive IPC invoke/handle via renderer
 8. Click a menu item in the main process
 9. Make sure two screenshots match one another
-
